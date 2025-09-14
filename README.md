@@ -55,7 +55,7 @@
 - ✨ 支持 markdown 文本转思维导图（新支持 🔥🔥🔥）
 
 
-## 关于名称
+## About the name
 
 ***Drawnix***  ，源于绘画(  ***Draw***  )与凤凰(  ***Phoenix***  )的灵感交织。
 
